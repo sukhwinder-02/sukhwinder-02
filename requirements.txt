@@ -5,6 +5,7 @@ pyromod
 humanize
 schedule
 APscheduler
+pyrogram
 # --- For-Database ------------ #
 pymongo
 motor
